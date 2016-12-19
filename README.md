@@ -1,2 +1,2 @@
-# vibetimer h1
-##注意 h2
+# vibetimer 
+##注意:countdowntimerを使わない
